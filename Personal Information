@@ -1,0 +1,31 @@
+#Personal Information
+a = "Programmer: Jairus Danielle Perez"
+b = "Date Created: July 6, 2023"
+c = "Description of the System: Personal Information"
+d = "First Name: Jairus Danielle"
+e = "Middle Name: Sevilla"
+f = "Last Name: Perez"
+g = "Course: BSIT"
+h = "Year: 3rd Year"
+i = "Age: 20"
+j = "Gender: Male"
+k = "Civil Status: Single"
+l = "Nationality: Filipino"
+m = "Motto: Failure is a step to success"
+
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
+print(g)
+print(h)
+print(i)
+print(j)
+print(k)
+print(l)
+print(m)
+print("School: PHINMA")
+print("Araullo University")
+print("CITE")
