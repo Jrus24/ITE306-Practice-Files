@@ -1,0 +1,22 @@
+#PROGRAM FOR COMPUTING EVENT
+#CODE BY JAIRUS DANIELLE PEREZ
+print("RESERVATION BILL")
+#given values
+rpd = 15000 #rate per day
+ssf = 4500 #sound system fee
+sdf = 3000 #stage decor fee
+cf = 35000 #catering fee
+evat = .12 #value added tax
+
+#code for input
+day = float(input("Enter number of days:"))
+#code for computing the rate per day
+amount = rpd * day
+#computation for total amount
+tamount = amount + ssf + sdf + cf
+#computation for tax
+tax = tamount * evat
+#computation for total bill
+bill = tamount + tax
+#output for bill
+print("Bill =", bill)
